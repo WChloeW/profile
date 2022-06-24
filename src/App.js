@@ -6,7 +6,7 @@ import {
   SettingOutlined,
 } from "@ant-design/icons";
 import "./App.css";
-import LineBarChart from './components/paper';
+import PaperChart from './components/paper';
 
 const { Meta } = Card;
 
@@ -38,7 +38,7 @@ const App = () => (
         </Col>
         <Col span={11}>
           <Card title="Paper" bordered={false}>
-            <LineBarChart/>
+            <PaperChart/>
           </Card>
         </Col>
         <Col span={8}>
