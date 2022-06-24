@@ -7,6 +7,7 @@ import {
 } from "@ant-design/icons";
 import "./App.css";
 import PaperChart from './components/paper';
+import RelationshipChart from './components/relationship';
 
 const { Meta } = Card;
 
@@ -42,8 +43,8 @@ const App = () => (
           </Card>
         </Col>
         <Col span={8}>
-          <Card title="Card title" bordered={false}>
-            Card content
+          <Card title="relationship" bordered={false}>
+            <RelationshipChart/>
           </Card>
         </Col>
       </Row>
