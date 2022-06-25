@@ -149,5 +149,5 @@ export default function Forcemap() {
     };
   };
 
-  return <div id="force" style={{ height: "500px" }}>123</div>;
+  return <div id="force" style={{ height: "300px" }}></div>;
 }

@@ -26,7 +26,7 @@ function NightingaleChart() {
           {
             name: 'Nightingale Chart',
             type: 'pie',
-            radius: [50, 150],
+            radius: [50, 100],
             center: ['50%', '50%'],
             roseType: 'area',
             itemStyle: {
@@ -51,7 +51,7 @@ function NightingaleChart() {
   return (
     <div style={{ textAlign: "center" }}>
       {/* <h2>NightingaleChart</h2> */}
-      <div ref={chartRef} style={{ height: "500px" }}></div>
+      <div ref={chartRef} style={{ height: "300px" }}></div>
     </div>
   );
 }
