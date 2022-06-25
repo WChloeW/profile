@@ -7,7 +7,6 @@ import {
 } from "@ant-design/icons";
 import "./App.css";
 import PaperChart from "./components/paper";
-import RelationshipChart from "./components/relationship/punchChart";
 import RelationshipTabs from "./components/relationship/tabs";
 import ListPaper from "./components/list";
 import RaderChart from "./components/summary";

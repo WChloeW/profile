@@ -1,6 +1,6 @@
 import { Tabs } from "antd";
 import "./index.css";
-import RelationshipChart from "../punchChart";
+import RadialTree from "../RadialTreeChart";
 import NightingaleChart from "../nightingaleChart";
 import ForceLayoutChart from "../ForceLayoutChart";
 
@@ -10,7 +10,7 @@ const RelationshipTabs = () => (
   <div className="card-container">
     <Tabs type="card">
       <TabPane tab="Tab Title 1" key="1">
-        <RelationshipChart />
+        <RadialTree />
       </TabPane>
       <TabPane tab="Tab Title 2" key="2">
         <NightingaleChart />
