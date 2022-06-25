@@ -9,6 +9,7 @@ import "./App.css";
 import PaperChart from "./components/paper";
 import RelationshipChart from "./components/relationship/punchChart";
 import RelationshipTabs from "./components/relationship/tabs";
+import ListPaper from "./components/list";
 import { TeamOutlined } from "@ant-design/icons";
 
 const { Meta } = Card;
@@ -62,7 +63,10 @@ const App = () => (
                             </p>
                             <p className="info_line">
                               <TeamOutlined />
-                              <span className="baseInfo">Yale School of Medicine/Yale Cancer Center/Smilow Cancer Hospital</span>
+                              <span className="baseInfo">
+                                Yale School of Medicine/Yale Cancer
+                                Center/Smilow Cancer Hospital
+                              </span>
                             </p>
                             <div className="should_login">
                               <p className="should_login_tip">
@@ -142,6 +146,7 @@ const App = () => (
           <Card title="Paper" bordered={false}>
             <PaperChart />
           </Card>
+          <ListPaper />
         </Col>
         <Col span={8}>
           {/* <Card title="relationship" bordered={false}> */}
