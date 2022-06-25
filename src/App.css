@@ -1,5 +1,9 @@
 @import '~antd/dist/antd.css';
 .site-card-border-less-wrapper {
     padding: 30px;
-    background: #f2f2f2;
+    /* background: #f2f2f2; */
   }
+body
+{
+    background-color:#f2f2f2;
+}
