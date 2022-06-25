@@ -1,19 +1,17 @@
-import { Tabs } from 'antd';
-import './index.css'
+import { Tabs } from "antd";
+import "./index.css";
+import RelationshipChart from "../punchChart";
+import NightingaleChart from "../nightingaleChart";
 const { TabPane } = Tabs;
 
 const RelationshipTabs = () => (
   <div className="card-container">
     <Tabs type="card">
       <TabPane tab="Tab Title 1" key="1">
-        <p>Content of Tab Pane 1</p>
-        <p>Content of Tab Pane 1</p>
-        <p>Content of Tab Pane 1</p>
+        <RelationshipChart />
       </TabPane>
       <TabPane tab="Tab Title 2" key="2">
-        <p>Content of Tab Pane 2</p>
-        <p>Content of Tab Pane 2</p>
-        <p>Content of Tab Pane 2</p>
+        <NightingaleChart />
       </TabPane>
       <TabPane tab="Tab Title 3" key="3">
         <p>Content of Tab Pane 3</p>
