@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import * as echarts from "echarts";
 import './index.css';
 
-function RaderChart() {
+function RadarChart() {
   const chartRef = useRef(null);
 
   useEffect(() => {
@@ -53,4 +53,4 @@ function RaderChart() {
   );
 }
 
-export default RaderChart;
+export default RadarChart;

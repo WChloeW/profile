@@ -9,7 +9,7 @@ import "./App.css";
 import PaperChart from "./components/paper";
 import RelationshipTabs from "./components/relationship/tabs";
 import ListPaper from "./components/list";
-import RaderChart from "./components/summary";
+import RadarChart from "./components/summary";
 import { TeamOutlined } from "@ant-design/icons";
 
 const { Meta } = Card;
@@ -151,7 +151,7 @@ const App = () => (
         <Col span={8}>
           {/* <Card title="relationship" bordered={false}> */}
           <RelationshipTabs />
-          <RaderChart />
+          <RadarChart />
           {/* </Card> */}
         </Col>
       </Row>
