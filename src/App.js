@@ -8,6 +8,7 @@ import {
 import "./App.css";
 import PaperChart from './components/paper';
 import RelationshipChart from './components/relationship';
+import RelationshipTabs from "./components/relationship/tabs";
 
 const { Meta } = Card;
 
@@ -43,9 +44,9 @@ const App = () => (
           </Card>
         </Col>
         <Col span={8}>
-          <Card title="relationship" bordered={false}>
-            <RelationshipChart/>
-          </Card>
+          {/* <Card title="relationship" bordered={false}> */}
+            <RelationshipTabs/>
+          {/* </Card> */}
         </Col>
       </Row>
     </div>
