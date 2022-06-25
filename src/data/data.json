@@ -1,0 +1,360 @@
+[
+  {
+    "awards": [
+      {
+        "id": "award2",
+        "name": "威廉·科利奖",
+        "year": 2012
+      }
+    ],
+    "country": "美国",
+    "current_work": [
+      {
+        "id": "ins4",
+        "name": "宾夕法尼亚大学",
+        "type": "University"
+      },
+      {
+        "id": "ins5",
+        "name": "朱诺医疗",
+        "type": "Company"
+      }
+    ],
+    "desc": "Carl H. June教授为美国艺术与科学院院士、美国科学院院士，是CAR-T细胞疗法创始人之一，因研究过继免疫疗法用于癌症和HIV感染的潜在用途而闻名世界，被评为“全球生物制药界最有影响力的科学家”。他现担任宾夕法尼亚大学佩雷尔曼医学院终身教授、帕克癌症免疫治疗研究所所长、细胞免疫治疗中心主任。",
+    "graduate_from": [
+      {
+        "id": "ins1",
+        "name": "贝勒医学院",
+        "type": "University"
+      }
+    ],
+    "id": "person0",
+    "name": "Carl H.June",
+    "papers": [
+      {
+        "citation": 1635,
+        "id": "paper0",
+        "name": "The B7 and CD28 receptor families",
+        "source": "Immunology Today",
+        "year": 1994
+      },
+      {
+        "citation": 971,
+        "id": "paper1",
+        "name": "Establishment of HIV-1 resistance in CD4+ T cells by genome editing using zinc-finger nucleases",
+        "source": "NATURE BIOTECHNOLOGY",
+        "year": 2008
+      },
+      {
+        "citation": 965,
+        "id": "paper2",
+        "name": "A Single Dose Of Peripherally Infused Egfrviii-Directed Car T Cells Mediates Antigen Loss And Induces Adaptive Resistance In Patients With Recurrent Glioblastoma",
+        "source": "SCIENCE TRANSLATIONAL MEDICINE",
+        "year": 2017
+      },
+      {
+        "citation": 832,
+        "id": "paper3",
+        "name": "CD28 costimulation can promote T cell survival by enhancing the expression of Bcl-xL",
+        "source": "IMMUNITY",
+        "year": 2010
+      },
+      {
+        "citation": 826,
+        "id": "paper4",
+        "name": "Role of the CD28 receptor in T-cell activation",
+        "source": "Immunology Today",
+        "year": 1990
+      }
+    ],
+    "research_area": "免疫学",
+    "worked_in": [
+      {
+        "id": "ins2",
+        "name": "世界卫生组织",
+        "type": "Origanization"
+      },
+      {
+        "id": "ins3",
+        "name": "弗雷德·哈钦森癌症研究中心",
+        "type": "Origanization"
+      }
+    ]
+  },
+  {
+    "awards": [
+      {
+        "id": "award0",
+        "name": "沃伦·阿尔珀特奖",
+        "year": 2017
+      },
+      {
+        "id": "award1",
+        "name": "美国国家科学院院士",
+        "year": 2021
+      },
+      {
+        "id": "award3",
+        "name": "威廉·科利奖",
+        "year": 2014
+      }
+    ],
+    "country": "美国",
+    "current_work": [
+      {
+        "id": "ins0",
+        "name": "耶鲁大学",
+        "type": "University"
+      },
+      {
+        "id": "ins13",
+        "name": "君实生物",
+        "type": "Company"
+      }
+    ],
+    "desc": "医学博士，免疫学、皮肤病学和肿瘤内科学教授；癌症中心癌症免疫学研究项目联合主任",
+    "graduate_from": [
+      {
+        "id": "ins6",
+        "name": "福建医科大学",
+        "type": "University"
+      },
+      {
+        "belong_to": "中国医学科学院",
+        "id": "ins7",
+        "name": "中国医学科学院肿瘤研究所",
+        "type": "Origanization"
+      },
+      {
+        "id": "ins8",
+        "name": "德雷塞尔大学",
+        "type": "University"
+      }
+    ],
+    "id": "person1",
+    "name": "陈列平",
+    "papers": [
+      {
+        "citation": 10559,
+        "id": "paper5",
+        "name": "Safety, activity, and immune correlates of anti-PD-1 antibody in cancer",
+        "source": "NEW ENGLAND JOURNAL OF MEDICINE",
+        "year": 2012
+      },
+      {
+        "citation": 4323,
+        "id": "paper6",
+        "name": "Specific recruitment of regulatory T cells in ovarian carcinoma fosters immune privilege and predicts reduced survival",
+        "source": "NATURE MEDICINE",
+        "year": 2004
+      },
+      {
+        "citation": 3177,
+        "id": "paper7",
+        "name": "Tumor-associated B7-H1 promotes T-cell apoptosis: a potential mechanism of immune evasion",
+        "source": "NATURE MEDICINE",
+        "year": 2002
+      },
+      {
+        "citation": 2335,
+        "id": "paper8",
+        "name": "A Receptor Kinase-Like Protein Encoded By The Rice Disease Resistance Gene, Xa21",
+        "source": "SCIENCE",
+        "year": 1995
+      },
+      {
+        "citation": 2086,
+        "id": "paper9",
+        "name": "Colocalization of inflammatory response with B7-h1 expression in human melanocytic lesions supports an adaptive resistance mechanism of immune escape",
+        "source": "SCIENCE TRANSLATIONAL MEDICINE",
+        "year": 2012
+      },
+      {
+        "citation": 943,
+        "id": "paper10",
+        "name": "Costimulation of antitumor immunity by the B7 counterreceptor for the T lymphocyte molecules CD28 and CTLA-4",
+        "source": "CELL",
+        "year": 1992
+      }
+    ],
+    "research_area": "免疫学,肿瘤学,皮肤病学",
+    "worked_in": [
+      {
+        "id": "ins9",
+        "name": "华盛顿大学",
+        "type": "University"
+      },
+      {
+        "id": "ins10",
+        "name": "百时美施贵宝公司",
+        "type": "Company"
+      },
+      {
+        "id": "ins11",
+        "name": "梅奥医学中心",
+        "type": "Origanization"
+      },
+      {
+        "id": "ins12",
+        "name": "约翰霍普金斯大学",
+        "type": "University"
+      },
+      {
+        "id": "ins14",
+        "name": "美国华裔血液及肿瘤专家学会",
+        "type": "Origanization"
+      }
+    ]
+  },
+  {
+    "awards": [],
+    "country": "美国",
+    "current_work": [
+      {
+        "id": "ins0",
+        "name": "耶鲁大学",
+        "type": "University"
+      },
+      {
+        "id": "ins13",
+        "name": "君实生物",
+        "type": "Company"
+      }
+    ],
+    "desc": "医学博士，耶鲁大学癌症中心(YCC)和耶鲁大学医学院的医学少尉教授、药理学教授、肿瘤学主任、胸肿瘤研究项目主任、转化研究副主任",
+    "graduate_from": [
+      {
+        "id": "ins0",
+        "name": "耶鲁大学",
+        "type": "University"
+      },
+      {
+        "id": "ins20",
+        "name": "洛克菲勒大学",
+        "type": "University"
+      },
+      {
+        "id": "ins21",
+        "name": "哈佛大学",
+        "type": "University"
+      }
+    ],
+    "id": "person2",
+    "name": "Roy S.Herbst",
+    "papers": [
+      {
+        "citation": 1938,
+        "id": "paper16",
+        "name": "The biology and management of non-small cell lung cancer",
+        "source": "NATURE",
+        "year": 2018
+      },
+      {
+        "citation": 1683,
+        "id": "paper17",
+        "name": "Tribute: A Phase Iii Trial Of Erlotinib Hydrochloride (Osi-774) Combined With Carboplatin And Paclitaxel Chemotherapy In Advanced Non-Small-Cell Lung Cancer",
+        "source": "JOURNAL OF CLINICAL ONCOLOGY",
+        "year": 2005
+      },
+      {
+        "citation": 1219,
+        "id": "paper18",
+        "name": "Mutations In The Epidermal Growth Factor Receptor And In Kras Are Predictive And Prognostic Indicators In Patients With Non-Small-Cell Lung Cancer Treated With Chemotherapy Alone And In Combination Wi",
+        "source": "JOURNAL OF CLINICAL ONCOLOGY",
+        "year": 2005
+      },
+      {
+        "citation": 694,
+        "id": "paper19",
+        "name": "Quantitative Assessment of the Heterogeneity of PD-L1 Expression in Non-Small-Cell Lung Cancer",
+        "source": "JAMA ONCOLOGY",
+        "year": 2016
+      },
+      {
+        "citation": 619,
+        "id": "paper20",
+        "name": "Monoclonal antibodies to target epidermal growth factor receptor-positive tumors: A new paradigm for cancer therapy",
+        "source": "CANCER",
+        "year": 2002
+      }
+    ],
+    "research_area": "肿瘤学,免疫学",
+    "worked_in": []
+  },
+  {
+    "awards": [],
+    "country": "中国",
+    "current_work": [
+      {
+        "id": "ins16",
+        "name": "中国医学科学院",
+        "type": "Origanization"
+      },
+      {
+        "id": "ins18",
+        "name": "南开大学",
+        "type": "University"
+      },
+      {
+        "id": "ins19",
+        "name": "天津国际生物医药联合研究院",
+        "type": "Origanization"
+      }
+    ],
+    "desc": "中国工程院院士，南开大学校长，中国医学科学院学术委员会主席兼免疫治疗研究中心主任，德国科学院院士，美国国家医学科学院院士，美国人文与科学院院士，亚大地区免疫学会联盟秘书长，中国免疫学会秘书长，中国生物医学工程学会理事长",
+    "graduate_from": [
+      {
+        "id": "ins15",
+        "name": "第二军医大学",
+        "type": "University"
+      }
+    ],
+    "id": "person13",
+    "name": "曹雪涛",
+    "papers": [
+      {
+        "citation": 705,
+        "id": "paper11",
+        "name": "The microRNA miR-29 controls innate and adaptive immune responses to intracellular bacterial infection by targeting interferon-��",
+        "source": "NATURE IMMUNOLOGY",
+        "year": 2011
+      },
+      {
+        "citation": 382,
+        "id": "paper12",
+        "name": "MicroRNA-146a feedback inhibits RIG-I-dependent Type I IFN production in macrophages by targeting TRAF6, IRAK1, and IRAK2",
+        "source": "JOURNAL OF IMMUNOLOGY",
+        "year": 2009
+      },
+      {
+        "citation": 370,
+        "id": "paper13",
+        "name": "Splenic stroma drives mature dendritic cells to differentiate into regulatory dendritic cells",
+        "source": "NATURE IMMUNOLOGY",
+        "year": 2004
+      },
+      {
+        "citation": 287,
+        "id": "paper14",
+        "name": "B cells inhibit induction of T cell-dependent tumor immunity",
+        "source": "NATURE MEDICINE",
+        "year": 1998
+      },
+      {
+        "citation": 267,
+        "id": "paper15",
+        "name": "TLR4 signaling promotes immune escape of human lung cancer cells by inducing immunosuppressive cytokines and apoptosis resistance",
+        "source": "Molecular Immunology",
+        "year": 2007
+      }
+    ],
+    "research_area": "免疫学",
+    "worked_in": [
+      {
+        "id": "ins17",
+        "name": "北京协和医学院",
+        "type": "University"
+      }
+    ]
+  }
+]
