@@ -7,3 +7,56 @@ body
 {
     background-color:#f2f2f2;
 }
+.profile-card-follow-button{
+    margin-top: 30px;
+}
+
+.a-aminer-core-profile-index_new-profilePage .profile_info .all_info {
+    margin-top: -10px;
+    border-left: 1px dashed #ccc;
+}
+.a-aminer-core-profile-index_new-profilePage .profile_info .all_info .views_refresh {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.a-aminer-core-profile-c-profile-info-new-profile_info {
+    flex-direction: row;
+    justify-content: flex-start;
+    position: relative;
+}
+.a-aminer-core-profile-c-profile-info-new-profile_info .info_zone {
+    display: flex;
+    flex-direction: column;
+    flex: 2 1 auto;
+    color: grey;
+    position: relative;
+}
+.a-aminer-core-profile-c-profile-info-new-profile_info .info_zone .expert_basic_info {
+    flex-direction: row;
+    line-height: 200%;
+    flex-grow: 1;
+    padding-top: 16px;
+}
+
+
+element.style {
+}
+.a-aminer-core-profile-c-profile-info-new-profile_info .info_zone .expert_basic_info .expert_basic_info_left {
+    flex: 2 1;
+    flex-direction: row;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card_title {
+    font-size: 16px;
+    color: #373737;
+    font-weight: 700;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #428bca;
+}

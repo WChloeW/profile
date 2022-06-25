@@ -3,51 +3,364 @@
 let testdata = {
   nodes: [
     {
-      name: `node0`,
+      name: "陈列平",
       category: 0,
       value: 100,
-      x: 0,
-      y: 0,
+      x: 0.0,
+      y: 0.0,
+    },
+    {
+      name: "K,Tamada",
+      category: 0,
+      value: 0,
+      x: 35.71448297824696,
+      y: 16.1143166602725,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 26,
+      x: -94.69639632367127,
+      y: 93.76125698442146,
+    },
+    {
+      name: "Sheng,Yao",
+      category: 0,
+      value: 0,
+      x: 3.1030490416620315,
+      y: 44.72105578103304,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 18,
+      x: -0.8631934964563603,
+      y: -27.937743877584065,
+    },
+    {
+      name: "Xiaojie,Wang",
+      category: 0,
+      value: 0,
+      x: -41.01569312560509,
+      y: -75.55498797236493,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 16,
+      x: 31.113755812371757,
+      y: -31.74851960766346,
+    },
+    {
+      name: "Garth L,Warnock",
+      category: 0,
+      value: 0,
+      x: -19.1445309726199,
+      y: 35.98996353114661,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 16,
+      x: -81.43773910025794,
+      y: -89.51464928621307,
+    },
+    {
+      name: "Haiying,Xu",
+      category: 0,
+      value: 0,
+      x: 20.916081556207043,
+      y: 83.70740213639645,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 16,
+      x: -38.043928716451894,
+      y: -62.18668430060439,
+    },
+    {
+      name: "Dawei,Ou",
+      category: 0,
+      value: 0,
+      x: 93.9598052417048,
+      y: 34.55893353588091,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 15,
+      x: -45.53202770914633,
+      y: -59.131252151347525,
+    },
+    {
+      name: "Koji,Tamada",
+      category: 0,
+      value: 0,
+      x: 95.45579272824114,
+      y: 64.31210362968976,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 13,
+      x: 67.01390648557607,
+      y: 83.99602301349441,
+    },
+    {
+      name: "Jianqiang,Hao",
+      category: 0,
+      value: 0,
+      x: 82.75223860185883,
+      y: 40.91975267939382,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 13,
+      x: 99.07493980275933,
+      y: -23.793671112875547,
+    },
+    {
+      name: "Daniel L,Metzger",
+      category: 0,
+      value: 0,
+      x: 24.643294959426143,
+      y: 68.95370999683213,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 13,
+      x: 29.466057275051217,
+      y: 75.34544789033359,
+    },
+    {
+      name: "Ziliang,Ao",
+      category: 0,
+      value: 0,
+      x: -33.6979754412795,
+      y: -52.84340513562168,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 13,
+      x: 50.4171384346437,
+      y: 28.225000690923974,
+    },
+    {
+      name: "Gefeng,Zhu",
+      category: 0,
+      value: 0,
+      x: 45.03069246622415,
+      y: -10.560054095539673,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 13,
+      x: -65.46235246123716,
+      y: -48.343069597465174,
+    },
+    {
+      name: "Miguel F,Sanmamed",
+      category: 0,
+      value: 0,
+      x: -91.90407192980685,
+      y: 94.38701534746491,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 12,
+      x: -52.66811012486271,
+      y: -31.31366112767968,
+    },
+    {
+      name: "Ignacio,Melero",
+      category: 0,
+      value: 0,
+      x: 53.55467658826031,
+      y: 0.41695556257704824,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 11,
+      x: -72.15420794151275,
+      y: 19.74236643203756,
+    },
+    {
+      name: "David L,Rimm",
+      category: 0,
+      value: 0,
+      x: 75.63224588118888,
+      y: -73.41644891076433,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 11,
+      x: 30.798822399804372,
+      y: 3.577392164162907,
+    },
+    {
+      name: "王盛典",
+      category: 0,
+      value: 0,
+      x: 88.64309161103357,
+      y: -38.69862224479063,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 11,
+      x: -42.01796182548101,
+      y: 47.663991777482714,
+    },
+    {
+      name: "Houot, Roch",
+      category: 0,
+      value: 0,
+      x: -74.78826244779249,
+      y: 17.64450356278482,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 11,
+      x: 43.510007664945036,
+      y: 15.642866165036729,
+    },
+    {
+      name: "Alice L.-F,Mui",
+      category: 0,
+      value: 0,
+      x: 58.587120402324885,
+      y: -8.513655518223073,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 11,
+      x: -60.855969890962115,
+      y: 84.3331982993276,
+    },
+    {
+      name: "H,Tamura",
+      category: 0,
+      value: 0,
+      x: -21.67692957072814,
+      y: -39.18475360514123,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 10,
+      x: -29.866078625974957,
+      y: 67.74093027720745,
+    },
+    {
+      name: "Luo, Liqun",
+      category: 0,
+      value: 0,
+      x: 67.17910848875431,
+      y: -23.466713884547584,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 10,
+      x: -15.563340411457926,
+      y: -94.8328930374416,
+    },
+    {
+      name: "Levy, Ronald",
+      category: 0,
+      value: 0,
+      x: 84.02273969323305,
+      y: -77.62100827308963,
+    },
+    {
+      name: "null",
+      category: 0,
+      value: 10,
+      x: -90.69467004287912,
+      y: 10.217466446344991,
     },
   ],
-  links: [],
+  links: [
+    { source: "陈列平", target: "K,Tamada" },
+    { source: "陈列平", target: "Sheng,Yao" },
+    { source: "陈列平", target: "Xiaojie,Wang" },
+    { source: "陈列平", target: "Garth L,Warnock" },
+    { source: "陈列平", target: "Haiying,Xu" },
+    { source: "陈列平", target: "Dawei,Ou" },
+    { source: "陈列平", target: "Koji,Tamada" },
+    { source: "陈列平", target: "Jianqiang,Hao" },
+    { source: "陈列平", target: "Daniel L,Metzger" },
+    { source: "陈列平", target: "Ziliang,Ao" },
+    { source: "陈列平", target: "Gefeng,Zhu" },
+    { source: "陈列平", target: "Miguel F,Sanmamed" },
+    { source: "陈列平", target: "Ignacio,Melero" },
+    { source: "陈列平", target: "David L,Rimm" },
+    { source: "陈列平", target: "王盛典" },
+    { source: "陈列平", target: "Houot, Roch" },
+    { source: "陈列平", target: "Alice L.-F,Mui" },
+    { source: "陈列平", target: "H,Tamura" },
+    { source: "陈列平", target: "Luo, Liqun" },
+    { source: "陈列平", target: "Levy, Ronald" },
+  ],
+
+  //   nodes: [
+  //     {
+  //       name: `node0`,
+  //       category: 0,
+  //       value: 100,
+  //       x: 0,
+  //       y: 0,
+  //     },
+  //   ],
+  //   links: [],
   categories: [
     {
-      name: 'master',
+      name: "master",
       symbolSize: 100,
       // 控制形状
       // symbol: 'image://https://picture.djwl.top/img/8ec34cb882dc4.jpg',
     },
     {
-      name: 'property',
+      name: "property",
       symbolSize: 50,
     },
     {
-      name: 'item',
+      name: "item",
       symbolSize: 20,
     },
   ],
 };
 //随机生成数据
-for (let i = 1; i < 30; i++) {
-  testdata?.nodes?.push({
-    name: `node${i}`,
-    category: i < 5 ? 1 : 2,
-    value: i * 100,
-    x: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 100,
-    y: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 100,
-    // symbolSize: i * 2,
-    // fixed: true,
-  });
-  if (i < 5)
-    testdata?.links.push({
-      source: `node0`,
-      target: `node${i}`,
-    });
-  else
-    testdata?.links.push({
-      source: `node${parseInt(Math.random() * 4) + 1}`,
-      target: `node${i}`,
-    });
-}
-export {testdata};
+// for (let i = 1; i < 30; i++) {
+//   testdata?.nodes?.push({
+//     name: `node${i}`,
+//     category: i < 5 ? 1 : 2,
+//     value: i * 100,
+//     x: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 100,
+//     y: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 100,
+//     // symbolSize: i * 2,
+//     // fixed: true,
+//   });
+//   if (i < 5)
+//     testdata?.links.push({
+//       source: `node0`,
+//       target: `node${i}`,
+//     });
+//   else
+//     testdata?.links.push({
+//       source: `node${parseInt(Math.random() * 4) + 1}`,
+//       target: `node${i}`,
+//     });
+// }
+console.log(testdata);
+export { testdata };

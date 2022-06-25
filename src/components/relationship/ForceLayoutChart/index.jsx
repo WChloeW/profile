@@ -1,6 +1,7 @@
 import React, { Component, useState, useEffect } from "react";
 import * as echarts from "echarts";
-import { testdata } from "./data";
+import { testdata } from "./datatest";
+// import { testdata } from "./data";
 
 export default function Forcemap() {
   const [datasource, setDatasource] = useState(testdata);
@@ -59,6 +60,9 @@ export default function Forcemap() {
     series: [
       {
         name: "个人数据",
+        showSymbol: true, //是否默认展示圆点
+        symbol: "circle", //设定为实心点
+        symbolSize: 20, //设定实心点的大小
         type: "graph",
         layout: "force",
         // 极坐标系
