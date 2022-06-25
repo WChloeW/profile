@@ -2,6 +2,8 @@ import { Tabs } from "antd";
 import "./index.css";
 import RelationshipChart from "../punchChart";
 import NightingaleChart from "../nightingaleChart";
+import ForceLayoutChart from "../ForceLayoutChart";
+
 const { TabPane } = Tabs;
 
 const RelationshipTabs = () => (
@@ -14,9 +16,7 @@ const RelationshipTabs = () => (
         <NightingaleChart />
       </TabPane>
       <TabPane tab="Tab Title 3" key="3">
-        <p>Content of Tab Pane 3</p>
-        <p>Content of Tab Pane 3</p>
-        <p>Content of Tab Pane 3</p>
+        <ForceLayoutChart />
       </TabPane>
     </Tabs>
   </div>

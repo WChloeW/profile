@@ -5,7 +5,7 @@ function NightingaleChart() {
   const chartRef = useRef(null);
 
   useEffect(() => {
-    let chartInstance = echarts.init(chartRef.current);
+    let nightChart = echarts.init(chartRef.current);
 
     // prettier-ignore
 
@@ -45,7 +45,7 @@ function NightingaleChart() {
           }
         ]
       };
-    chartInstance.setOption(option);
+    nightChart.setOption(option);
   }, []);
 
   return (
