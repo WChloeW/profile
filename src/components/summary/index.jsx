@@ -18,7 +18,7 @@ function RadarChart() {
         radar: {
           // shape: 'circle',
           indicator: [
-            { name: 'Sales', max: 6500 },
+            { name: 'Papers', max: 6500 },
             { name: 'Administration', max: 16000 },
             { name: 'Information Technology', max: 30000 },
             { name: 'Customer Support', max: 38000 },

@@ -3,8 +3,7 @@ import "./index.css";
 
 const dataDemo = [
   {
-    paperName:
-      "Association of Baseline Patient-reported Health-related Quality of Life Metrics with Outcome in Localised Prostate Cancer",
+    paperName:"Association of Baseline Patient-reported Health-related Quality of Life Metrics with Outcome in Localised Prostate Cancer",
     author: "S Roy,S C Morgan",
     info: "CLINICAL ONCOLOGY, no. 1 (2022): E61-E68",
   },
@@ -27,7 +26,7 @@ const ListPaper = () => (
     <div className="paper-list">
       <List
         size="large"
-        header={<div>Paper</div>}
+        header={<div>论文</div>}
         footer={<div>Footer</div>}
         bordered
         dataSource={dataDemo}

@@ -6,7 +6,7 @@ import RelationshipTabs from "./components/relationship/tabs";
 import ListPaper from "./components/list";
 import RadarChart from "./components/summary";
 import PersonProfile from "./components/profile";
-import PersonCard from "./personCard";
+import PersonCard from "./components/personCard";
 
 const App = () => (
   <div className="App">
@@ -20,13 +20,13 @@ const App = () => (
           <PersonProfile />
         </Col>
         <Col span={11}>
-          <Card title="Paper" bordered={false}>
-            <PaperChart />
-          </Card>
+          <RelationshipTabs />
           <ListPaper />
         </Col>
         <Col span={8}>
-          <RelationshipTabs />
+          <Card title="研究兴趣" bordered={false} className='paper-chart'>
+            <PaperChart />
+          </Card>
           <RadarChart />
         </Col>
       </Row>

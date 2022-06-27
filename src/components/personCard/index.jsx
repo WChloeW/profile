@@ -11,8 +11,6 @@ import {
 
 
 function PersonCard() {
-
-
   return (
     <Card
     cover={

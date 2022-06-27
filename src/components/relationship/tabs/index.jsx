@@ -9,14 +9,14 @@ const { TabPane } = Tabs;
 const RelationshipTabs = () => (
   <div className="card-container">
     <Tabs type="card">
-      <TabPane tab="Tab Title 1" key="1">
+      <TabPane tab="关系图" key="1">
+        <ForceLayoutChart />
+      </TabPane>
+      <TabPane tab="径向树状图" key="2">
         <RadialTree />
       </TabPane>
-      <TabPane tab="Tab Title 2" key="2">
+      <TabPane tab="南丁格尔玫瑰图" key="3">
         <NightingaleChart />
-      </TabPane>
-      <TabPane tab="Tab Title 3" key="3">
-        <ForceLayoutChart />
       </TabPane>
     </Tabs>
   </div>
