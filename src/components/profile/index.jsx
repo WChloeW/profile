@@ -35,7 +35,7 @@ function PersonProfile() {
                     </p>
                     <div className="should_login">
                       <p className="should_login_tip">
-                        <span>test</span>
+                        {/* <span>test</span> */}
                       </p>
                     </div>
                   </div>
@@ -55,7 +55,7 @@ function PersonProfile() {
       <div className="card_content">
         <div className="a-aminer-core-profile-c-resume-resume-education">
           <span className="a-aminer-core-profile-c-resume-resume-login">
-            <span>test</span>
+            <span>他现担任宾夕法尼亚大学佩雷尔曼医学院终身教授、帕克癌症免疫治疗研究所所长、细胞免疫治疗中心主任。</span>
           </span>
         </div>
       </div>
@@ -68,7 +68,7 @@ function PersonProfile() {
       <div className="card_content">
         <div className="a-aminer-core-profile-c-resume-resume-education">
           <span className="a-aminer-core-profile-c-resume-resume-login">
-            <span>test</span>
+            <span>贝勒医学院</span>
           </span>
         </div>
       </div>
@@ -80,28 +80,8 @@ function PersonProfile() {
       </div>
       <div className="card_content">
         <div className="a-aminer-core-profile-c-resume-resume-bio">
-          Dr. Herbst’s primary mission is the enhanced integration of
-          clinical, laboratory, and research programs to bring new
-          treatments to cancer patients. He has led the Phase I
-          development of several of the new generation of targeted
-          agents for non-small cell lung cancer (NSCLC), including
-          gefitinib, erlotinib, cetuximab, and bevacizumab. More
-          recently, he participated in the successful registration of
-          pembrolizumab for the treatment of advanced non-small cell
-          lung cancer, following the successful Yale-led KEYNOTE 10
-          study of the immune therapy drug commonly used to treat other
-          cancers. He was co-leader for the BATTLE-1 clinical trial
-          program, co-leads the subsequent BATTLE-2 clinical trial
-          program, and served as a Co-program Leader of the
-          Developmental Therapeutics Program for the YCC Support Grant.
-          Dr. Herbst’s laboratory work is focused on immunotherapy
-          angiogenesis; dual epidermal growth factor receptor
-          (EGFR)/vascular endothelial growth factor receptor (VEGFR)
-          inhibition in NSCLC, and targeting KRAS-activated pathways.
-          More recently, he has explored predictive biomarkers for the
-          use of immunotherapy agents. This work has been translated
-          from the preclinical to clinical setting in multiple Phase II
-          and III studies which he has led.
+        Carl H. June教授为美国艺术与科学院院士、美国科学院院士，是CAR-T细胞疗法创始人之一，因研究过继免疫疗法用于癌症和HIV感染的潜在用途而闻名世界，被评为“全球生物制药界最有影响力的科学家”。他现担任宾夕法尼亚大学佩雷尔曼医学院终身教授、帕克癌症免疫治疗研究所所长、细胞免疫治疗中心主任。
+
         </div>
       </div>
     </section>

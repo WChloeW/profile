@@ -15,7 +15,7 @@ const App = () => (
         <Col span={5}>
           <PersonCard />
           <Button type="primary" block className="profile-card-follow-button">
-            Follow
+            关注
           </Button>
           <PersonProfile />
         </Col>
