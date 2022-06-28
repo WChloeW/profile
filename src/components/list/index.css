@@ -2,3 +2,9 @@
     background-color: white;
     /* margin-top: 30px; */
 }
+.paper-list-author{
+    color:#12741d;
+}
+.paper-list-title{
+    font-size: 16px;
+}

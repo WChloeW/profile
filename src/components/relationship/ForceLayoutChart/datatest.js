@@ -38,14 +38,14 @@ let testdata = {
 
   for (let i = 1; i < 21; i++) {
     const nameArray= ['陈列平','K,Tamada', 'Sheng,Yao', 'Xiaojie,Wang', 'Garth L,Warnock', 'Haiying,Xu', 'Dawei,Ou', 'Koji,Tamada', 'Jianqiang,Hao', 'Daniel L,Metzger', 'Ziliang,Ao', 'Gefeng,Zhu', 'Miguel F,Sanmamed', 'Ignacio,Melero', 'David L,Rimm', '王盛典', 'Houot, Roch', 'Alice L.-F,Mui', 'H,Tamura', 'Luo, Liqun', 'Levy, Ronald'];
-    console.log(nameArray.length);
+    // console.log(nameArray.length);
 
     testdata?.nodes?.push({
       name: nameArray[i],
       category: i < 15 ? 1 : 2,
       value: i,
-      x: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 90,
-      y: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 90,
+      x: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 70,
+      y: (Math.random() < 0.5 ? -1 : 1) * Math.random() * 70,
       // symbolSize: i * 2,
       // fixed: true,
     });

@@ -1,5 +1,8 @@
 import { Divider, List, Typography } from "antd";
 import "./index.css";
+import PaperList from '../../data/paper_data.json';
+
+// console.log(PaperList);
 
 const dataDemo = [
   {
@@ -30,18 +33,18 @@ const ListPaper = () => (
       <List
         size="large"
         header={<div>论文</div>}
-        footer={<div>Footer</div>}
+        // footer={<div>Footer</div>}
         bordered
-        dataSource={dataDemo}
+        dataSource={PaperList}
         renderItem={(item) => (
           <div>
             <List.Item>
               <List.Item.Meta
-                title={<a href="">{item.paperName}</a>}
+                title={<a href="http://localhost:3000/"className="paper-list-title">{item.name}</a>}
                 description={
                   <>
-                    <div>{item.author}</div>
-                    <div>{item.info}</div>
+                    <div className="paper-list-author">作者:{item.author}</div>
+                    <div>来源:{item.source}-{item.year}</div>
                   </>
                 }
               />

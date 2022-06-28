@@ -59,7 +59,7 @@ export default function Forcemap() {
     animationEasingUpdate: "quinticInOut",
     series: [
       {
-        name: "个人数据",
+        name: "相关人物",
         showSymbol: true, //是否默认展示圆点
         symbol: "circle", //设定为实心点
         symbolSize: 20, //设定实心点的大小
