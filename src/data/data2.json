@@ -1,0 +1,936 @@
+[
+  {
+    "id": "person0",
+    "name": "Carl H.June",
+    "desc": "Carl H. June教授为美国艺术与科学院院士、美国科学院院士,是CAR-T细胞疗法创始人之一,因研究过继免疫疗法用于癌症和HIV感染的潜在用途而闻名世界,被评为“全球生物制药界最有影响力的科学家”。他现担任宾夕法尼亚大学佩雷尔曼医学院终身教授、帕克癌症免疫治疗研究所所长、细胞免疫治疗中心主任。",
+    "country": "美国",
+    "research_area": "免疫学",
+    "current_work": [
+      {
+        "id": "ins4",
+        "name": "宾夕法尼亚大学",
+        "type": "University"
+      },
+      {
+        "id": "ins5",
+        "name": "朱诺医疗",
+        "type": "Company"
+      }
+    ],
+    "worked_in": [
+      {
+        "id": "ins2",
+        "name": "世界卫生组织",
+        "type": "Origanization"
+      },
+      {
+        "id": "ins3",
+        "name": "弗雷德·哈钦森癌症研究中心",
+        "type": "Origanization"
+      }
+    ],
+    "graduate_from": [
+      {
+        "id": "ins1",
+        "name": "贝勒医学院",
+        "type": "University"
+      },
+      {
+        "id": "ins54",
+        "name": "美国海军学院",
+        "type": "University"
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper2",
+        "name": "A Single Dose Of Peripherally Infused Egfrviii-Directed Car T Cells Mediates Antigen Loss And Induces Adaptive Resistance In Patients With Recurrent Glioblastoma",
+        "year": 2017,
+        "source": "SCIENCE TRANSLATIONAL MEDICINE",
+        "citation": 965
+      },
+      {
+        "id": "paper3",
+        "name": "CD28 costimulation can promote T cell survival by enhancing the expression of Bcl-xL",
+        "year": 2010,
+        "source": "IMMUNITY",
+        "citation": 832
+      },
+      {
+        "id": "paper1",
+        "name": "Establishment of HIV-1 resistance in CD4+ T cells by genome editing using zinc-finger nucleases",
+        "year": 2008,
+        "source": "NATURE BIOTECHNOLOGY",
+        "citation": 971
+      },
+      {
+        "id": "paper0",
+        "name": "The B7 and CD28 receptor families",
+        "year": 1994,
+        "source": "Immunology Today",
+        "citation": 1635
+      },
+      {
+        "id": "paper4",
+        "name": "Role of the CD28 receptor in T-cell activation",
+        "year": 1990,
+        "source": "Immunology Today",
+        "citation": 826
+      }
+    ],
+    "awards": [
+      {
+        "id": "award2",
+        "name": "威廉·科利奖",
+        "year": 2012
+      }
+    ],
+    "educations": [
+      "1975,美国海军学院,学士",
+      "1979,贝勒医学院,硕士"
+    ],
+    "jobs": [
+      "宾夕法尼亚大学",
+      "朱诺医疗"
+    ],
+    "colleague": [
+      {
+        "id": "person93",
+        "name": "李怡平"
+      }
+    ],
+    "alumni": [
+      {
+        "id": "person28",
+        "name": "林欣"
+      }
+    ]
+  },
+  {
+    "id": "person1",
+    "name": "陈列平",
+    "desc": "医学博士,免疫学、皮肤病学和肿瘤内科学教授；癌症中心癌症免疫学研究项目联合主任",
+    "country": "美国",
+    "research_area": "免疫学,肿瘤学,皮肤病学",
+    "current_work": [
+      {
+        "id": "ins0",
+        "name": "耶鲁大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [
+      {
+        "id": "ins9",
+        "name": "华盛顿大学",
+        "type": "University"
+      },
+      {
+        "id": "ins10",
+        "name": "百时美施贵宝公司",
+        "type": "Company"
+      },
+      {
+        "id": "ins11",
+        "name": "梅奥医学中心",
+        "type": "Origanization"
+      },
+      {
+        "id": "ins12",
+        "name": "约翰霍普金斯大学",
+        "type": "University"
+      },
+      {
+        "id": "ins14",
+        "name": "美国华裔血液及肿瘤专家学会",
+        "type": "Origanization"
+      }
+    ],
+    "graduate_from": [
+      {
+        "id": "ins6",
+        "name": "福建医科大学",
+        "type": "University"
+      },
+      {
+        "id": "ins7",
+        "name": "中国医学科学院肿瘤研究所",
+        "type": "Origanization",
+        "belong_to": "中国医学科学院"
+      },
+      {
+        "id": "ins8",
+        "name": "德雷塞尔大学",
+        "type": "University"
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper5",
+        "name": "Safety, activity, and immune correlates of anti-PD-1 antibody in cancer",
+        "year": 2012,
+        "source": "NEW ENGLAND JOURNAL OF MEDICINE",
+        "citation": 10559
+      },
+      {
+        "id": "paper9",
+        "name": "Colocalization of inflammatory response with B7-h1 expression in human melanocytic lesions supports an adaptive resistance mechanism of immune escape",
+        "year": 2012,
+        "source": "SCIENCE TRANSLATIONAL MEDICINE",
+        "citation": 2086
+      },
+      {
+        "id": "paper6",
+        "name": "Specific recruitment of regulatory T cells in ovarian carcinoma fosters immune privilege and predicts reduced survival",
+        "year": 2004,
+        "source": "NATURE MEDICINE",
+        "citation": 4323
+      },
+      {
+        "id": "paper7",
+        "name": "Tumor-associated B7-H1 promotes T-cell apoptosis: a potential mechanism of immune evasion",
+        "year": 2002,
+        "source": "NATURE MEDICINE",
+        "citation": 3177
+      },
+      {
+        "id": "paper8",
+        "name": "A Receptor Kinase-Like Protein Encoded By The Rice Disease Resistance Gene, Xa21",
+        "year": 1995,
+        "source": "SCIENCE",
+        "citation": 2335
+      },
+      {
+        "id": "paper10",
+        "name": "Costimulation of antitumor immunity by the B7 counterreceptor for the T lymphocyte molecules CD28 and CTLA-4",
+        "year": 1992,
+        "source": "CELL",
+        "citation": 943
+      }
+    ],
+    "awards": [
+      {
+        "id": "award3",
+        "name": "威廉·科利奖",
+        "year": 2014
+      },
+      {
+        "id": "award0",
+        "name": "沃伦·阿尔珀特奖",
+        "year": 2017
+      },
+      {
+        "id": "award1",
+        "name": "美国国家科学院院士",
+        "year": 2021
+      }
+    ],
+    "educations": [
+      "1982,福建医科大学,学士",
+      "1986,中国医学科学院肿瘤研究所,硕士",
+      "1989,德雷塞尔大学,博士"
+    ],
+    "jobs": [
+      "耶鲁大学"
+    ],
+    "colleague": [
+      {
+        "id": "person2",
+        "name": "Roy S.Herbst"
+      }
+    ],
+    "alumni": []
+  },
+  {
+    "id": "person2",
+    "name": "Roy S.Herbst",
+    "desc": "医学博士,耶鲁大学癌症中心(YCC)和耶鲁大学医学院的医学少尉教授、药理学教授、肿瘤学主任、胸肿瘤研究项目主任、转化研究副主任",
+    "country": "美国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins0",
+        "name": "耶鲁大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins0",
+        "name": "耶鲁大学",
+        "type": "University"
+      },
+      {
+        "id": "ins20",
+        "name": "洛克菲勒大学",
+        "type": "University"
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper16",
+        "name": "The biology and management of non-small cell lung cancer",
+        "year": 2018,
+        "source": "NATURE",
+        "citation": 1938
+      },
+      {
+        "id": "paper19",
+        "name": "Quantitative Assessment of the Heterogeneity of PD-L1 Expression in Non-Small-Cell Lung Cancer",
+        "year": 2016,
+        "source": "JAMA ONCOLOGY",
+        "citation": 694
+      },
+      {
+        "id": "paper17",
+        "name": "Tribute: A Phase Iii Trial Of Erlotinib Hydrochloride (Osi-774) Combined With Carboplatin And Paclitaxel Chemotherapy In Advanced Non-Small-Cell Lung Cancer",
+        "year": 2005,
+        "source": "JOURNAL OF CLINICAL ONCOLOGY",
+        "citation": 1683
+      },
+      {
+        "id": "paper18",
+        "name": "Mutations In The Epidermal Growth Factor Receptor And In Kras Are Predictive And Prognostic Indicators In Patients With Non-Small-Cell Lung Cancer Treated With Chemotherapy Alone And In Combination Wi",
+        "year": 2005,
+        "source": "JOURNAL OF CLINICAL ONCOLOGY",
+        "citation": 1219
+      },
+      {
+        "id": "paper20",
+        "name": "Monoclonal antibodies to target epidermal growth factor receptor-positive tumors: A new paradigm for cancer therapy",
+        "year": 2002,
+        "source": "CANCER",
+        "citation": 619
+      }
+    ],
+    "awards": [],
+    "educations": [
+      "1984,耶鲁大学,学士",
+      "1984,耶鲁大学,硕士",
+      "1990,洛克菲勒大学,博士"
+    ],
+    "jobs": [
+      "耶鲁大学"
+    ],
+    "colleague": [
+      {
+        "id": "person1",
+        "name": "陈列平"
+      }
+    ],
+    "alumni": []
+  },
+  {
+    "id": "person13",
+    "name": "曹雪涛",
+    "desc": "中国工程院院士,南开大学校长,中国医学科学院学术委员会主席兼免疫治疗研究中心主任,德国科学院院士,美国国家医学科学院院士,美国人文与科学院院士,亚大地区免疫学会联盟秘书长,中国免疫学会秘书长,中国生物医学工程学会理事长",
+    "country": "中国",
+    "research_area": "免疫学",
+    "current_work": [
+      {
+        "id": "ins18",
+        "name": "南开大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins15",
+        "name": "第二军医大学",
+        "type": "University"
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper11",
+        "name": "The microRNA miR-29 controls innate and adaptive immune responses to intracellular bacterial infection by targeting interferon-γ",
+        "year": 2011,
+        "source": "NATURE IMMUNOLOGY",
+        "citation": 705
+      },
+      {
+        "id": "paper12",
+        "name": "MicroRNA-146a feedback inhibits RIG-I-dependent Type I IFN production in macrophages by targeting TRAF6, IRAK1, and IRAK2",
+        "year": 2009,
+        "source": "JOURNAL OF IMMUNOLOGY",
+        "citation": 382
+      },
+      {
+        "id": "paper15",
+        "name": "TLR4 signaling promotes immune escape of human lung cancer cells by inducing immunosuppressive cytokines and apoptosis resistance",
+        "year": 2007,
+        "source": "Molecular Immunology",
+        "citation": 267
+      },
+      {
+        "id": "paper13",
+        "name": "Splenic stroma drives mature dendritic cells to differentiate into regulatory dendritic cells",
+        "year": 2004,
+        "source": "NATURE IMMUNOLOGY",
+        "citation": 370
+      },
+      {
+        "id": "paper14",
+        "name": "B cells inhibit induction of T cell-dependent tumor immunity",
+        "year": 1998,
+        "source": "NATURE MEDICINE",
+        "citation": 287
+      }
+    ],
+    "awards": [],
+    "educations": [
+      "1986,第二军医大学,学士",
+      "1990,第二军医大学,博士"
+    ],
+    "jobs": [
+      "南开大学"
+    ],
+    "colleague": [],
+    "alumni": []
+  },
+  {
+    "id": "person6",
+    "name": "李天虹",
+    "desc": "Dr. Li sees each patient is unique and would like to support her patients through the journey fighting cancer. Dr. Li believes in a multidisciplinary team approach to provide the best cancer care to individual patients. She provides her patients the most state-of-the-art cancer care, including the option of participating in promising clinical trials.",
+    "country": "美国",
+    "research_area": "肿瘤学",
+    "current_work": [
+      {
+        "id": "ins45",
+        "name": "加州大学戴维斯分校",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins26",
+        "name": "新奥尔良洛约拉大学",
+        "type": "University"
+      },
+      {
+        "id": "ins29",
+        "name": "北京大学医学院",
+        "type": "University",
+        "belong_to": "北京大学"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1989,北京大学医学院,硕士",
+      "1996,新奥尔良洛约拉大学,博士"
+    ],
+    "jobs": [
+      "加州大学戴维斯分校"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person21",
+        "name": "黄晓军"
+      }
+    ]
+  },
+  {
+    "id": "person7",
+    "name": "邹伟平",
+    "desc": "美国密西根大学医学院教授,AACR全美肿瘤免疫学主席,密西根大学肿瘤免疫与免疫治疗卓越中心主任,肿瘤免疫学与血液学计划联席主任,免疫监测中心联席主任和外科肿瘤学研究培训项目主任",
+    "country": "美国",
+    "research_area": "肿瘤学,病理学,外科学",
+    "current_work": [
+      {
+        "id": "ins44",
+        "name": "密西根大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins27",
+        "name": "华中科技大学同济医学院",
+        "type": "University",
+        "belong_to": "华中科技大学"
+      },
+      {
+        "id": "ins28",
+        "name": "法国巴斯德研究所",
+        "type": "Origanization"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1990,华中科技大学同济医学院,学士",
+      "1996,法国巴斯德研究所,博士"
+    ],
+    "jobs": [
+      "密西根大学"
+    ],
+    "colleague": [],
+    "alumni": []
+  },
+  {
+    "id": "person11",
+    "name": "李子海",
+    "desc": "医学及免疫系博士,美国俄亥俄州大学（OSU）教授,James 综合肿瘤中心肿瘤免疫研究所创始所长",
+    "country": "美国",
+    "research_area": "免疫学",
+    "current_work": [
+      {
+        "id": "ins43",
+        "name": "俄亥俄州立大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins17",
+        "name": "北京协和医学院",
+        "type": "University",
+        "belong_to": "清华大学"
+      },
+      {
+        "id": "ins22",
+        "name": "郑州大学医学院",
+        "type": "University",
+        "belong_to": "郑州大学"
+      },
+      {
+        "id": "ins25",
+        "name": "西奈山伊坎医学院",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1984,郑州大学医学院,学士",
+      "1988,北京协和医学院,硕士",
+      "1994,西奈山伊坎医学院,博士"
+    ],
+    "jobs": [
+      "俄亥俄州立大学"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person22",
+        "name": "王建祥"
+      }
+    ]
+  },
+  {
+    "id": "person20",
+    "name": "任军",
+    "desc": "医学博士、教授、肿瘤内科学家、肿瘤免疫治疗学家,首都医科大学附属北京世纪坛医院（首都医科大学肿瘤医学院）院长助理、肿瘤中心主任,肿瘤治疗性疫苗北京市重点实验室主任,肿瘤免疫治疗北京市国际科技合作基地主任",
+    "country": "中国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins41",
+        "name": "首都医科大学",
+        "type": "University"
+      },
+      {
+        "id": "ins42",
+        "name": "上海浦东医院",
+        "type": "Hospital"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins24",
+        "name": "第四军医大学",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1989,第四军医大学,学士",
+      "1994,第四军医大学,硕士",
+      "2000,第四军医大学,博士"
+    ],
+    "jobs": [
+      "首都医科大学",
+      "上海浦东医院"
+    ],
+    "colleague": [],
+    "alumni": []
+  },
+  {
+    "id": "person21",
+    "name": "黄晓军",
+    "desc": "血液所所长,教授博导,国家杰青基金获得者,国家百千万人才工程“有突出贡献中青年专家”,科技北京百名领军人才,享受国务院政府特殊津贴专家",
+    "country": "中国",
+    "research_area": "肿瘤学,血液学",
+    "current_work": [
+      {
+        "id": "ins40",
+        "name": "北京大学人民医院",
+        "type": "Hospital"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins29",
+        "name": "北京大学医学院",
+        "type": "University",
+        "belong_to": "北京大学"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1987,中山大学中山医学院,学士",
+      "1992,北京大学医学院,博士"
+    ],
+    "jobs": [
+      "北京大学人民医院"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person6",
+        "name": "李天虹"
+      }
+    ]
+  },
+  {
+    "id": "person22",
+    "name": "王建祥",
+    "desc": "血液学研究所副所院长·主任医师、中国医学科学院血液病医院白血病中心主任、国家血液病临床研究中心主任、教授、博士生导师,国家杰出青年科学基金获得者,新世纪百千万人才工程国家级人选,享受国务院特殊津贴。",
+    "country": "中国",
+    "research_area": "肿瘤学,血液学",
+    "current_work": [
+      {
+        "id": "ins39",
+        "name": "中国医学科学院血液病医院",
+        "type": "Hospital"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins17",
+        "name": "北京协和医学院",
+        "type": "University",
+        "belong_to": "清华大学"
+      },
+      {
+        "id": "ins23",
+        "name": "山东大学",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1985,山东大学,学士",
+      "1991,北京协和医学院,硕士"
+    ],
+    "jobs": [
+      "中国医学科学院血液病医院"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person11",
+        "name": "李子海"
+      }
+    ]
+  },
+  {
+    "id": "person28",
+    "name": "林欣",
+    "desc": "清华大学医学院教授,基础医学系主任",
+    "country": "中国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins38",
+        "name": "清华大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins1",
+        "name": "贝勒医学院",
+        "type": "University"
+      },
+      {
+        "id": "ins30",
+        "name": "上海科技大学",
+        "type": "University"
+      },
+      {
+        "id": "ins31",
+        "name": "德克萨斯大学休斯顿医学院",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1982,上海科技大学,学士",
+      "1989,贝勒医学院,硕士",
+      "1995,德克萨斯大学休斯顿医学院,博士"
+    ],
+    "jobs": [
+      "清华大学"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person0",
+        "name": "Carl H.June"
+      }
+    ]
+  },
+  {
+    "id": "person29",
+    "name": "王玮",
+    "desc": "博士,研究员,博导,现任职于四川大学华西医院生物治疗国家重点实验室/生物治疗协同创新中心/国家综合新药研发大平台, 基因免疫细胞治疗室主任",
+    "country": "中国",
+    "research_area": "免疫学,肿瘤学",
+    "current_work": [
+      {
+        "id": "ins33",
+        "name": "四川大学",
+        "type": "University"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins32",
+        "name": "佳木斯大学",
+        "type": "University"
+      },
+      {
+        "id": "ins33",
+        "name": "四川大学",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "2006,佳木斯大学,学士",
+      "2011,四川大学,博士"
+    ],
+    "jobs": [
+      "四川大学"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person30",
+        "name": "魏于全"
+      }
+    ]
+  },
+  {
+    "id": "person30",
+    "name": "魏于全",
+    "desc": "肿瘤学教授,中国科学院院士,原四川大学副校长,华西医院临床肿瘤中心主任与生物治疗国家重点实验室主任,中国医药生物技术协会理事长,国家生物治疗协同创新中心负责人,国家综合性新药研究开发技术大平台负责人,科技部973项目首席科学家,国家自然科学基金创新研究群体负责人",
+    "country": "中国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins37",
+        "name": "中国科学院",
+        "type": "Origanization"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins33",
+        "name": "四川大学",
+        "type": "University"
+      },
+      {
+        "id": "ins34",
+        "name": "京都大学",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1983,四川大学,学士",
+      "1986,四川大学,硕士",
+      "1996,京都大学,博士"
+    ],
+    "jobs": [
+      "中国科学院"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person29",
+        "name": "王玮"
+      }
+    ]
+  },
+  {
+    "id": "person43",
+    "name": "朱军",
+    "desc": "北京大学肿瘤医院党委书记,大内科主任,淋巴瘤科主任,博士生导师。兼任中国临床肿瘤学会（CSCO）理事会常委理事、中国抗淋巴瘤联盟主任委员、中国老年学会老年肿瘤专业委员会常委、CACA靶向治疗专业委员会副主任委员、中国人体健康科技促进会会长",
+    "country": "中国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins46",
+        "name": "北京大学肿瘤医院",
+        "type": "Hospital"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins35",
+        "name": "第三军医大学",
+        "type": "University"
+      },
+      {
+        "id": "ins36",
+        "name": "以色列耶路撒冷希伯来大学",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1984,第三军医大学,学士",
+      "1997,以色列耶路撒冷希伯来大学,博士"
+    ],
+    "jobs": [
+      "北京大学肿瘤医院"
+    ],
+    "colleague": [],
+    "alumni": []
+  },
+  {
+    "id": "person93",
+    "name": "李怡平",
+    "desc": "现任上海药明巨诺生物科技有限公司董事长、首席执行官。",
+    "country": "中国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins5",
+        "name": "朱诺医疗",
+        "type": "Company"
+      },
+      {
+        "id": "ins47",
+        "name": "药明巨诺",
+        "type": "Company"
+      },
+      {
+        "id": "ins48",
+        "name": "药明康德",
+        "type": "Company"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins52",
+        "name": "复旦大学医学院",
+        "type": "University",
+        "belong_to": "复旦大学"
+      },
+      {
+        "id": "ins53",
+        "name": "蒙大拿大学",
+        "type": "University"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1987,复旦大学医学院,学士",
+      "1991,蒙大拿大学,硕士"
+    ],
+    "jobs": [
+      "药明巨诺",
+      "朱诺医疗",
+      "药明康德"
+    ],
+    "colleague": [
+      {
+        "id": "person0",
+        "name": "Carl H.June"
+      }
+    ],
+    "alumni": [
+      {
+        "id": "person94",
+        "name": "李宗海"
+      }
+    ]
+  },
+  {
+    "id": "person94",
+    "name": "李宗海",
+    "desc": "科济药业控股有限公司创始人、董事会主席、首席执行官、首席科学官。上海市肿瘤研究所癌基因及相关基因国家重点实验室研究员，上海交通大学医学院附属仁济医院博士生导师。",
+    "country": "中国",
+    "research_area": "肿瘤学,免疫学",
+    "current_work": [
+      {
+        "id": "ins49",
+        "name": "上海交通大学医学院附属仁济医院",
+        "type": "Hospital"
+      },
+      {
+        "id": "ins50",
+        "name": "科济药业",
+        "type": "Company"
+      }
+    ],
+    "worked_in": [],
+    "graduate_from": [
+      {
+        "id": "ins51",
+        "name": "中南大学",
+        "type": "University"
+      },
+      {
+        "id": "ins52",
+        "name": "复旦大学医学院",
+        "type": "University",
+        "belong_to": "复旦大学"
+      }
+    ],
+    "papers": [],
+    "awards": [],
+    "educations": [
+      "1997,中南大学,学士",
+      "2000,中南大学,硕士",
+      "2005,复旦大学医学院,博士"
+    ],
+    "jobs": [
+      "上海交通大学医学院附属仁济医院",
+      "科济药业"
+    ],
+    "colleague": [],
+    "alumni": [
+      {
+        "id": "person93",
+        "name": "李怡平"
+      }
+    ]
+  }
+]
